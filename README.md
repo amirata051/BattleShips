@@ -6,4 +6,7 @@
 
 **When two players connect to the server:**
 
-![Uploading image.png…]()
+![image](https://github.com/amirata051/BattleShips/assets/78425283/e239bdb2-6100-4659-9972-91da3d13a592)
+
+
+**Winter 2023**
